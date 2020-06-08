@@ -1,7 +1,7 @@
 {
-  "name": "coronadashboard",
+  "name": "corona-dashboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "Corona Real Time Stats From All over The World",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
