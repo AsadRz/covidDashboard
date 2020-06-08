@@ -1,2 +1,0 @@
-# covidDashboard
-Created with CodeSandbox
